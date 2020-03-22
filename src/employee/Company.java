@@ -16,6 +16,7 @@ public class Company {
 	private void compdata(int compid,String compdata,String compemail,float sal) {
 		// TODO Auto-generated method stub
 		System.out.println(""+compid+compdata+compemail+sal);
+		System.out.println("k");
 
 	}
 public static void main(String[] args) {
